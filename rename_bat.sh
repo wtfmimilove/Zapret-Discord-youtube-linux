@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Директория для обработки
-TARGET_DIR="zapret-latest"
+TARGET_DIR="Zapret-Discord-youtube-linux"
 
 # Функция для транслитерации русских символов в латинские
 transliterate() {
